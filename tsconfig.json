@@ -4,6 +4,9 @@
     ],
     "compilerOptions": {
         "outDir": "build",
-        "target": "es6"
+        "target": "es6",
+
+        //타입스크릅트에게 어떤 API를 사용하고 어떤 환경에서 코드를 실행하는지를 명시
+        "lib": ["ES6","DOM"]
     }
 }
