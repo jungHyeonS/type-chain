@@ -10,6 +10,7 @@
         "lib": ["ES6","DOM"],
 
         //엄격 모드
-        "strict": true
+        "strict": true,
+        "allowJs": true
     }
 }
