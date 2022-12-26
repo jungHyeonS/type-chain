@@ -11,6 +11,7 @@
 
         //엄격 모드
         "strict": true,
-        "allowJs": true
+        "esModuleInterop": true,
+        "module": "CommonJS"
     }
 }
